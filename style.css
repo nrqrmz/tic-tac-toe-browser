@@ -1,0 +1,10 @@
+body {
+  background-color: rebeccapurple;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.kcell {
+  font-size: 40px;
+  padding: 16px;
+  background-color: blue;
+}
